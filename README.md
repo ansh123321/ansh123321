@@ -1,6 +1,8 @@
 # Hi, I'm Ansh 👋
 
-I’m a BTech CSE student currently learning web development and building projects using HTML, CSS, and JavaScript.
+BTech CSE student | Learning Web Development
+
+I build projects using HTML, CSS, and JavaScript and focus on improving my problem-solving skills.
 
 ## 🚀 Projects
 - Weather App 🌦
