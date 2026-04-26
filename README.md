@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
 
-<!--
-**ansh123321/ansh123321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a BTech CSE student currently learning web development and building projects using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Weather App 🌦
+- To-Do List App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- JavaScript (core concepts)
+- Problem solving
+
+## 🎯 Goal
+To become internship-ready by building real-world projects and improving my coding skills.
